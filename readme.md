@@ -35,6 +35,7 @@ Aqui você encontrará os principais tópicos abordados no curso, organizados em
 
 Para reforçar o aprendizado, pratique com os exercícios disponíveis nos seguintes tópicos:
 
+* 🚀 [Iniciais](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/iniciais.md)
 * ✏️ [Básicos](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/exercicio_python_basico.md)
 * ❓ [Condicionais](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/Exerc%C3%ADcios%20condicionais.md)
 * 🔁 [Repetição](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/EXERCICIOS-REPETICAO-logica.md)
