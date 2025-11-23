@@ -23,11 +23,11 @@
 
 Aqui você encontrará os principais tópicos abordados no curso, organizados em arquivos específicos:
 
-* 📥 [Entrada e Saída de Dados](https://github.com/flexpeak/043-03-2025-TAR-PPI/blob/main/files/entrada_saida.md)
-* 🔢 [Operadores](https://github.com/flexpeak/043-03-2025-TAR-PPI/blob/main/files/operadores.md)
-* 🔀 [Estruturas Condicionais](https://github.com/flexpeak/043-03-2025-TAR-PPI/blob/main/files/condicionais.md)
-* 🔄 [Estruturas de Repetição](https://github.com/flexpeak/043-03-2025-TAR-PPI/blob/main/files/repeticao.md)
-* 🛠 [Funções](https://github.com/flexpeak/043-03-2025-TAR-PPI/blob/main/files/funcoes.md)
+* 📥 [Entrada e Saída de Dados](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/entrada_saida.md)
+* 🔢 [Operadores](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/operadores.md)
+* 🔀 [Estruturas Condicionais](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/condicionais.md)
+* 🔄 [Estruturas de Repetição](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/repeticao.md)
+* 🛠 [Funções](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/funcoes.md)
 
 ---
 
@@ -35,12 +35,12 @@ Aqui você encontrará os principais tópicos abordados no curso, organizados em
 
 Para reforçar o aprendizado, pratique com os exercícios disponíveis nos seguintes tópicos:
 
-* ✏️ [Básicos](https://github.com/flexpeak/043-03-2025-TAR-PPI/blob/main/files/exercicio_python_basico.md)
-* ❓ [Condicionais](https://github.com/flexpeak/043-03-2025-TAR-PPI/blob/main/files/Exerc%C3%ADcios%20condicionais.md)
-* 🔁 [Repetição](https://github.com/flexpeak/043-03-2025-TAR-PPI/blob/main/files/EXERCICIOS-REPETICAO-logica.md)
-* 🔄🔀 [Repetição e Condicionais](https://github.com/flexpeak/043-03-2025-TAR-PPI/blob/main/files/rep_cond.md)
-* ⚙️ [Funções](https://github.com/flexpeak/043-03-2025-TAR-PPI/blob/main/files/funcoes_1.md)
-* 🎲 [Diversos](https://github.com/flexpeak/043-03-2025-TAR-PPI/blob/main/files/misturados.md)
+* ✏️ [Básicos](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/exercicio_python_basico.md)
+* ❓ [Condicionais](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/Exerc%C3%ADcios%20condicionais.md)
+* 🔁 [Repetição](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/EXERCICIOS-REPETICAO-logica.md)
+* 🔄🔀 [Repetição e Condicionais](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/rep_cond.md)
+* ⚙️ [Funções](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/funcoes_1.md)
+* 🎲 [Diversos](https://github.com/EricoBorgonove/063-03-2025-TAR-PPI/blob/main/files/misturados.md)
 
 ---
 
