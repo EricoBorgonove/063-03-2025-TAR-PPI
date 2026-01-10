@@ -30,7 +30,7 @@ for _ in range(2000):
     dados.append(registro)
 
 # gera arquivo Python bem formatado
-with open("dados_faker_150.py", "w", encoding="utf-8") as f:
+with open("dados_faker_2000.py", "w", encoding="utf-8") as f:
     f.write("# Arquivo gerado automaticamente com Faker\n")
     f.write("# Lista Python válida e indentada\n\n")
     f.write("dados = ")
